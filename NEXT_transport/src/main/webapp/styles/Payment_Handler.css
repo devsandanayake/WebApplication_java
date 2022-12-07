@@ -1,0 +1,144 @@
+*Payment bar*/
+
+
+
+
+.box {
+    position: absolute;
+    top: 190%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 900px;
+    height:700px;
+    padding: 20px;
+    background: rgba(0, 0, 0, .8);
+    box-shadow: 0 15px 25px rgba(0, 0, 0, .5);
+    border-radius: 10px;
+    color: #000066;
+    background-color: #000066;
+}
+
+
+.card {
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2);
+  max-width: 100px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+
+/*Footer*/
+footer {
+  height: 17vw;
+  width: 100%;
+  position: absolute;
+  bottom: -1200px;
+  background-color: black;
+}
+footer a {
+  color: white;
+  display: block;
+  text-decoration: none;
+  font-size: 1.2vw;
+  padding: 0vw;
+  line-height: 1.5vw;
+  padding-left: 1vw;
+}
+footer h5 {
+  color: white;
+  font-size: 1.7vw;
+  padding: -5vw;
+}
+footer img {
+  height: 5vw;
+}
+footer p {
+  color: white;
+  font-size: 0.8vw;
+  position: absolute;
+  bottom: 0vh;
+  left: 43vw;
+}
+/*more part*/
+.more {
+  float: left;
+}
+/*app part*/
+.apps {
+  float: left;
+  position: absolute;
+  left: 40vw;
+}
+.apps .apple {
+  position: absolute;
+  left: 5vw;
+  top: 3.4vw;
+}
+
+.apps .android {
+  position: absolute;
+  left: 5vw;
+  top: 9.4vw;
+}
+/*social part*/
+.social {
+  float: right;
+  position: absolute;
+  right: 2vw;
+}
+.social .fb {
+  position: absolute;
+  top: 4.8vw;
+  right: 11.2vw;
+  height: 3.7vw;
+}
+
+.social .insta {
+  position: absolute;
+  top: 4.8vw;
+  right: 5.9vw;
+  height: 3.7vw;
+}
+
+.social .twitter {
+  position: absolute;
+  top: 5vw;
+  right: 1vw;
+  height: 3.3vw;
+}
+
+.social .utube {
+  position: absolute;
+  top: 9vw;
+  right: 11vw;
+}
+.social .linkedin {
+  position: absolute;
+  top: 9vw;
+  right: 5.8vw;
+  height: 3.8vw;
+}
+
+.social .reddit {
+  position: absolute;
+  top: 9vw;
+  right: 1vw;
+  height: 3.8vw;
+}
+
+
+

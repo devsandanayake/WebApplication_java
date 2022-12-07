@@ -1,0 +1,61 @@
+ 
+
+.test{
+  border: 2px solid black;
+}
+
+ul.menu{
+  position: absolute;
+  bottom: 280px;
+  width: 99%;
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  background-color:#333;
+  overflow:hidden;
+}
+
+li.menu{
+  float:left;
+}
+
+li a{
+  display:block;
+  color:white;
+  text-align:center;
+  padding:14px 16px;
+  text-decoration:none;
+}
+ li a:hover{
+  background-color:black;
+}
+
+/*slideshow*/
+.dex{
+  position: absolute;
+  top:65%;
+}
+
+/*user account css*/
+.bttn1{
+  margin:8px 4px 4px 4px;
+  width:10%;
+  height:55px;
+  background-color:#333;
+  font-size:16px;
+  font-weight:bold;
+  float: right;
+  border-radius: 12px;
+  position: absolute;
+  top:47%;
+  right: 2%;
+}
+
+button a{
+  display:block;
+  color:white;
+  text-align:center;
+  padding:6px 2px;
+  text-decoration:none;
+}
+
